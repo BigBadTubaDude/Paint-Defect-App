@@ -1,0 +1,2 @@
+INSERT INTO [US_Project_Management_Test].[dbo].[Flash_Test_Defect_Data] (BarType, MaterialType, Width, Phase, Side, RackPosition, Temp, Humidity, Location, DefectType,TopBottom, TestDate)
+VALUES ('FLAT TEE', 'Aluminum', 90, 'N', 'B', 1, 60,40, 'tag', 'Delamination', 'Bot','2022-04-09 09:53:15');
